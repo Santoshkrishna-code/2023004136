@@ -1,0 +1,17 @@
+{
+  "name": "logging_middleware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No unit tests configured\"",
+    "test:logger": "node src/testLogger.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.17.0"
+  }
+}
